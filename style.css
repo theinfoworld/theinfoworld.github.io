@@ -1,0 +1,12 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+#searchbox input{
+    font-size: large;
+    padding: 20px;
+}
